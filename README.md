@@ -1,5 +1,5 @@
 # kedaimayan
-# Important
+## Important
 
 This project is still on very early development stage. If you want to use for production, use it with your own risk. Back-end repo in [here](https://github.com/muselimin/backend-kedaimayan)
 More feature Coming Really Soon.
@@ -7,34 +7,34 @@ What is this app all about?
 
 This app works as a replacement for old-style laminated menu which sometimes looks like a magazine. By using this app, restaurants will be more easier to maintain their costumer, also make their service a lot more unique and probably boost their income.
 
-# Preview
+## Preview
 ![kedaimayan](preview-kedaimayan.gif)
 
 
-# Features
+## Features
 
     Pick menu/s by category
     Order menu
     Seeing bill immediately
 
-# Why do you need to use my App?
+## Why do you need to use my App?
 
     It's React Native, so it support android & iOS by default!
     Simple Code, so you can easily contribute on it.
     Express is one of the most starred javascript framework, and it is very easy to use
 
-# Tech Stack
+## Tech Stack
 
     React Native and Redux for the Mobile Frontend
     ExpressJs as the Backend
 
-# Prerequisites
+## Prerequisites
 
     Make sure You had been install NodeJs in your system https://nodejs.org/
     Then install React Native https://facebook.github.io/react-native/
     Don’t forget Express Js as the backend https://expressjs.com
 
-# Installation & Configuration
+## Installation & Configuration
 
 Follow these step to install
 
