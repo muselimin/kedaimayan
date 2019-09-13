@@ -17,46 +17,46 @@ This app works as a replacement for old-style laminated menu which sometimes loo
     Order menu
     Seeing bill immediately
 
-Why do you need to use my App?
+# Why do you need to use my App?
 
     It's React Native, so it support android & iOS by default!
     Simple Code, so you can easily contribute on it.
     Express is one of the most starred javascript framework, and it is very easy to use
 
-Tech Stack
+# Tech Stack
 
     React Native and Redux for the Mobile Frontend
     ExpressJs as the Backend
 
-Prerequisites
+# Prerequisites
 
     Make sure You had been install NodeJs in your system https://nodejs.org/
     Then install React Native https://facebook.github.io/react-native/
     Don’t forget Express Js as the backend https://expressjs.com
 
-Installation & Configuration
+# Installation & Configuration
 
 Follow these step to install
 
-Frontend:
+# Frontend:
 
 $ git clone https://github.com/muselimin/kedaimayan.git
 $ cd kedaimayan
 $ npm install
 $ react-native run-android #for android
 
-Back-end:
+# Back-end:
 
 $ git clone https://github.com/muselimin/backend-kedaimayan.git
 $ cd backend-kedaimayan
 $ npm install
 
-Support Me :)
+# Support Me :)
 
     Star this repository star
     Hire Me: https://bit.ly/2lLMeFZ
 
-Download App (Demo usage only)
+# Download App (Demo usage only)
 
 https://bit.ly/2keMLj5
 
