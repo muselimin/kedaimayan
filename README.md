@@ -8,7 +8,7 @@ What is this app all about?
 This app works as a replacement for old-style laminated menu which sometimes looks like a magazine. By using this app, restaurants will be more easier to maintain their costumer, also make their service a lot more unique and probably boost their income.
 
 # Preview
-![kedaimayan](demo/preview-kedaimayan.gif)
+![kedaimayan](preview-kedaimayan.gif)
 
 
 # Features
@@ -38,18 +38,18 @@ This app works as a replacement for old-style laminated menu which sometimes loo
 
 Follow these step to install
 
-# Frontend:
+Frontend:
 
-$ git clone https://github.com/muselimin/kedaimayan.git
-$ cd kedaimayan
-$ npm install
-$ react-native run-android #for android
+    $ git clone https://github.com/muselimin/kedaimayan.git
+    $ cd kedaimayan
+    $ npm install
+    $ react-native run-android #for android
 
-# Back-end:
+Back-end:
 
-$ git clone https://github.com/muselimin/backend-kedaimayan.git
-$ cd backend-kedaimayan
-$ npm install
+    $ git clone https://github.com/muselimin/backend-kedaimayan.git
+    $ cd backend-kedaimayan
+    $ npm install
 
 # Support Me :)
 
