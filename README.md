@@ -65,7 +65,7 @@ $ npm install
 
 ## Support Me :)
 
-Star this repository star
+Star this repository
 
 Hire Me: https://bit.ly/2lLMeFZ
 
