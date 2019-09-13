@@ -60,7 +60,6 @@ Back-end:
 
 https://bit.ly/2keMLj5
 
-Under maintenance
 License
 
 WTFPL-LICENSE
